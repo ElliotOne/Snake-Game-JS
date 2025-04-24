@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: #200114;
+   
+}
+
+canvas {
+    position: absolute;
+    top: 100px;
+    left: 40vw;
+    margin: 0 auto;
+    border: 3px solid #00ff95;
+}
+
+.result {
+    width: 100%;
+    display: inline-block;
+    align-self: flex-end;
+}
+
+.result .result-label{
+    color: #00ff95;
+    font-size: 20px;
+    text-align: center;
+}
