@@ -59,9 +59,9 @@ Welcome to the Snake Game! This is a classic arcade-style game where you control
 ## Screenshots
 
 **Gameplay:**
-<img src="https://github.com/ElliotOne/Reminder-System/blob/master/screenshots/third.png"/>
+<img src="https://github.com/ElliotOne/Snake-Game-JS/blob/master/screenshots/first.png"/>
 
 **Game Over:**
-<img src="https://github.com/ElliotOne/Reminder-System/blob/master/screenshots/third.png"/>
+<img src="https://github.com/ElliotOne/Snake-Game-JS/blob/master/screenshots/second.png"/>
 
 Enjoy the game, and may you achieve the highest score!
